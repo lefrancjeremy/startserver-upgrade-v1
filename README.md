@@ -3,7 +3,9 @@
 This script allows:
 
  > stop or 0 -> stop apache2.service, mysql.service, ssh.service, postfix.service, dovecot.service, postgresql.service.
+ 
  > start or 1 ->start apache2.service, mysql.service, ssh.service, postfix.service, dovecot.service, postgresql.service.
+ 
  > restart or 2 ->restart apache2.service, mysql.service, ssh.service, postfix.service, dovecot.service, postgresql.service.
  > status or 3 -> status for apache2.service, mysql.service, ssh.service, postfix.service, dovecot.service, postgresql.service.
  > service or 4 ->status all services.
